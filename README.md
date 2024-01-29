@@ -13,9 +13,9 @@ As a Data Analyst, the objective was to create a comprehensive dashboard that wo
 **Data Information:**
 The dataset used for this analysis was collected from CodeBasics website (Resume Project Challenge #1).
 The dataset comprises five CSV files, 2 dimension tables, and 2 fact tables.
-                ➢dim_date: data includes day type (weekend or weekday), month, and week number (W19 —W32)
-                ➢dim_hotels : Includes property id, property name, category (luxury/business) and the city.
-                ➢dim_rooms : Includes room id and room class.
-                ➢fact_aggregated_bookings : Stores information about bookings including booking dates, booking platforms, number of guests, revenue, check-in, and checkout dates.
-                ➢fact_bookings : Includes successful bookings, hotel id, and capacity.
+dim_date: data includes day type (weekend or weekday), month, and week number (W19 —W32)
+dim_hotels : Includes property id, property name, category (luxury/business) and the city.
+dim_rooms : Includes room id and room class.
+fact_aggregated_bookings : Stores information about bookings including booking dates, booking platforms, number of guests, revenue, check-in, and checkout dates.
+fact_bookings : Includes successful bookings, hotel id, and capacity.
 
